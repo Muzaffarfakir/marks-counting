@@ -1,0 +1,43 @@
+body {
+  font-size: 15pt;
+  background: #8BF3C0;
+  height: 100vh;
+}
+
+h3 {
+  text-align: center;
+}
+input {
+  width: 40px;
+  height: 25px;
+  outline: none;
+  outline-color: whitesmoke;
+
+}
+
+button {
+  display: flex;
+  margin: auto;
+  margin-top: 30px;
+  background: black;
+  color: white;
+  border: 3px solid #000000;
+  border-radius:5px; 
+
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  margin: auto;
+}
+h5{
+  text-align: center;
+}
+#con{
+  margin-top: 30px;
+}
+.muju{
+  background:white;
+}
